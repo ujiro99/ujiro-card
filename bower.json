@@ -1,13 +1,19 @@
 {
   "name": "basic-card",
-  "version": "0.0.1",
+  "version": "0.0.2",
+  "authors": [
+    "ujiro99"
+  ],
+  "description": "Element providing basic card style.",
   "keywords": [
     "seed",
     "polymer",
     "web-components",
     "card"
   ],
+  "license": "MIT",
   "main": "basic-card.html",
+  "homepage": "https://github.com/ujiro99/basic-card",
   "dependencies": {
     "polymer": "Polymer/polymer#^0.4.0",
     "font-roboto": "Polymer/font-roboto#~0.4.0"

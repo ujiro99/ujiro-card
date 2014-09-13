@@ -1,0 +1,15 @@
+{
+  "name": "basic-card",
+  "version": "0.0.1",
+  "keywords": [
+    "seed",
+    "polymer",
+    "web-components",
+    "card"
+  ],
+  "main": "basic-card.html",
+  "dependencies": {
+    "polymer": "Polymer/polymer#^0.4.0",
+    "font-roboto": "Polymer/font-roboto#~0.4.0"
+  }
+}

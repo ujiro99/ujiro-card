@@ -1,5 +1,5 @@
 {
-  "name": "basic-card",
+  "name": "ujiro-card",
   "version": "0.0.2",
   "authors": [
     "ujiro99"
@@ -12,8 +12,8 @@
     "card"
   ],
   "license": "MIT",
-  "main": "basic-card.html",
-  "homepage": "https://github.com/ujiro99/basic-card",
+  "main": "ujiro-card.html",
+  "homepage": "https://github.com/ujiro99/ujiro-card",
   "dependencies": {
     "polymer": "Polymer/polymer#^0.4.0",
     "font-roboto": "Polymer/font-roboto#~0.4.0"

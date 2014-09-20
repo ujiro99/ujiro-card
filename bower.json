@@ -15,7 +15,9 @@
   "main": "ujiro-card.html",
   "homepage": "https://github.com/ujiro99/ujiro-card",
   "dependencies": {
-    "polymer": "Polymer/polymer#^0.4.0",
-    "font-roboto": "Polymer/font-roboto#~0.4.0"
+    "polymer": "Polymer/polymer#^0.4.0"
+  },
+  "devDependencies": {
+    "font-roboto": "Polymer/font-roboto#~0.4.1"
   }
 }

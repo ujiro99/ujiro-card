@@ -1,0 +1,32 @@
+{
+  "name": "ujiro-card",
+  "authors": [
+    "ujiro99"
+  ],
+  "description": "Element providing basic card style.",
+  "keywords": [
+    "seed",
+    "polymer",
+    "web-components",
+    "card"
+  ],
+  "license": "MIT",
+  "main": "ujiro-card.html",
+  "homepage": "https://github.com/ujiro99/ujiro-card",
+  "dependencies": {
+    "polymer": "Polymer/polymer#^0.4.0"
+  },
+  "devDependencies": {
+    "font-roboto": "Polymer/font-roboto#~0.4.1"
+  },
+  "_release": "b46a90f250",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "b46a90f25093cfe32e54bf0190246cc6d15e5f06"
+  },
+  "_source": "git://github.com/ujiro99/ujiro-card.git",
+  "_target": "master",
+  "_originalSource": "ujiro99/ujiro-card",
+  "_direct": true
+}
